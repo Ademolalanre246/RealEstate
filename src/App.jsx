@@ -1,7 +1,7 @@
 import Header from "./component/Header";
 import Hero from "./component/Hero/Hero";
 import "./App.css"
-import Companies from "./component/Companies/companies";
+import Companies from "./component/Companies/Companies";
 import Residencies from "./component/Residencies/Residencies";
 import Value from "./Value/Value";
 import Contact from "./component/Contact/Contact";

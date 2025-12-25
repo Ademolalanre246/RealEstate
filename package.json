@@ -9,14 +9,19 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "framer-motion": "^10.8.5",
+    "@heroicons/react": "^2.2.0",
+    "@shelf/react-outside-click": "^0.1.4",
+    "axios": "^1.13.2",
+    "framer-motion": "^12.23.26",
     "react": "^18.2.0",
     "react-accessible-accordion": "^5.0.0",
     "react-countup": "^6.4.2",
     "react-dom": "^18.2.0",
-    "react-icons": "^4.8.0",
+    "react-icons": "^4.12.0",
+    "react-md": "^6.3.0",
     "react-outside-click-handler": "^1.3.0",
-    "swiper": "^9.1.1"
+    "react-router-dom": "^7.11.0",
+    "swiper": "^9.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
